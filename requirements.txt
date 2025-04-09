@@ -1,0 +1,8 @@
+manim>=0.17.3
+numpy>=1.21.0
+scipy>=1.7.0
+pillow>=8.3.0
+pycairo>=1.20.0
+ffmpeg-python>=0.2.0
+svgpathtools>=1.4.1
+matplotlib>=3.4.0 
