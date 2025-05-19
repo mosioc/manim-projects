@@ -288,10 +288,6 @@ Feel free to contribute to this project by:
 2. Creating a new branch for your feature
 3. Submitting a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Manim Community Edition team
