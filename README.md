@@ -1,6 +1,9 @@
 # Manim Community Personal Projects
 
-A collection of mathematical animations and visualizations created using Manim Community Edition.
+A collection of mathematical animations and visualizations created using Manim Community Edition.  
+
+
+[![demo](https://raw.githubusercontent.com/mosioc/manim-projects/main/EnhancedIrisAnimation.png)](https://raw.githubusercontent.com/mosioc/manim-projects/main/EnhancedIrisAnimation.mp4)
 
 ## Overview
 
